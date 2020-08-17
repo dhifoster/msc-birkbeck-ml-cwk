@@ -6,6 +6,8 @@ The optimizer was implemented in Keras and a simple CNN was built to predict the
 
 The purpose of this upload code is to simply disserminate information and to present my implementation of this optimizer.   Please ensure to cite Mosca et al (2017) if any of the code following is used. Available from: https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-50.pdf
 
+Note: Permission from Professor George Magoulas was obtained to publish this coursework post-grading in August 2020. 
+
 # References 
 
 
